@@ -1,2 +1,2 @@
 # AIVUS
-A pilot research for  Intravascular Ultrasound Imaging inpainting
+A Pilot Research for Intravascular Ultrasound Imaging Guidewire Artifacts inpainting
